@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" height="150" ,width="150"/>
 </div>
 <div id="badges" align="center">
-  <a href="[linkedin.com/in/rohit-patel-75a174247](https://www.linkedin.com/in/rohit-patel-75a174247/)">
+  <a href="https://www.linkedin.com/in/rohit-patel-75a174247/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/yourusername">
+  <a href="https://www.instagram.com/gurjar__rohit_patel/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
 
