@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" height="150" ,width="150"/>
 </div>
 <div id="badges" align="center">
-  <a href="linkedin.com/in/rohit-patel-75a174247">
+  <a href="[linkedin.com/in/rohit-patel-75a174247](https://www.linkedin.com/in/rohit-patel-75a174247/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/yourusername">
